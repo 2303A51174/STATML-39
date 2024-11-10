@@ -9,6 +9,7 @@ https://github.com/2303A51174/STATML-39/blob/main/STML_8.ipynb[ASSIGNMENT:-08]
 
 https://github.com/2303A51174/STATML-39/blob/main/ASSIGNMENT09.ipynb
 
+https://github.com/2303A51174/STATML-39/blob/main/ASSIGNMENT%2010.ipynb[ASSIGNMENT:-10]
 
 
 
