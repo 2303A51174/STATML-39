@@ -13,5 +13,7 @@ https://github.com/2303A51174/STATML-39/blob/main/ASSIGNMENT%2010.ipynb[ASSIGNME
 
 https://github.com/2303A51174/STATML-39/blob/main/ASSIGNMENT_11.ipynb
 
+https://github.com/2303A51174/STATML-39/blob/main/ASSIGNMENT_12.ipynb
+
 
 
